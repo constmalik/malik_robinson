@@ -3,3 +3,5 @@ This was created on the master branch.
 This was modified on good branch.
 
 This was modified on the master branch again.
+
+This was modified on the bad branch, too. 
