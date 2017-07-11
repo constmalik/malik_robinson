@@ -1,0 +1,27 @@
+1. for(var x = 1; x <= 10; x++) {
+     	console.log(x)
+}
+
+2. var fName = 'Malik'
+var lName = 'Robinson'
+
+console.log('hello there! My name is ' + fName + ' ' lName)
+
+3. var name = 'Malik'
+
+for(var i = 0; i < 4; i++) {
+  console.log(name)
+} 
+
+4. var myArray = ['Malik', 'Lorenzo', 'Robinson', 'Junior']
+
+for(var i =0; i < myArray.length; i++ ) {
+  console.log(myArray[i])
+}
+  
+
+
+5. for(var x = 10; x >= 1; x--) {
+  console.log(x)
+}
+ 
