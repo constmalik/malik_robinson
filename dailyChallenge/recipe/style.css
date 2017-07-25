@@ -1,0 +1,72 @@
+/* BASE STYLES --------------- */
+.main-header {
+  text-align: right;
+  height: 8%;
+  padding-top: 3.2% ;
+  padding-bottom: 1.8%;
+  padding-right: 1%;
+  color: #fff;
+  text-shadow: 2px 2px 2px #292929;
+  background-image: url('arepas.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  font-family: 'Dancing Script', cursive;
+  font-size: 4em;
+}
+
+body {
+  margin: 0;
+}
+/*HEADER STYLES*/
+h2 {
+  margin: 8px;
+  display: block;
+  background-color: #41583A;
+  color: white;
+  font-family: 'Allerta Stencil', sans-serif;
+  font-size: 4em;;
+}
+#Ingredients {
+  text-align: right;
+}
+/*CONTENT STYLE ----------- */
+.list-item {
+  display: block;
+  text-align: center;
+  font-family: 'Just Me Again Down Here', cursive;
+  font-size: 2em;
+}
+.info {
+  display: block;
+  font-size: 16px;
+  font-style: italic;
+  text-align: left;
+  padding-left: 15%;
+}
+#info {
+  font-size: 10px;
+  font-style: italic;
+  padding-left: 10%;
+}
+
+ol li {
+  text-align: center;
+  font-family: 'Just Me Again Down Here', cursive;
+  font-size: 2em;
+}
+#footer {
+  display: block;
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+  padding-left: 5%;
+  text-align: center;
+}
+#nutrition {
+  font-style: italic;
+  font-size: 10px;
+}
+#rating {
+  text-align:center;
+}
