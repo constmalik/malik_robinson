@@ -7,3 +7,6 @@ background-color: #ffbbcc;
 .error  {
   color: red;
 }
+body {
+  text-align: center;
+}
