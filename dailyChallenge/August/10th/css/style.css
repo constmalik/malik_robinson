@@ -1,0 +1,9 @@
+fieldset {
+background-color: #ffbbcc;
+}
+.importantForm {
+  text-align: center;
+}
+.error  {
+  color: red;
+}
